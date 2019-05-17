@@ -34,6 +34,8 @@
 | Adam Sullivan | sullivanstatistics | |
 <br>
 
+That's all, folks!
+
 # Integration of RStudio with Git
 
 Check this out: <http://happygitwithr.com/index.html>
